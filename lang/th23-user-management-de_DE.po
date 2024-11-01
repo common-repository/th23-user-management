@@ -1,0 +1,1831 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-16 09:38+0100\n"
+"PO-Revision-Date: 2019-05-16 11:01+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: th23-user-management.php:199 th23-user-management-pro.php:768
+#: th23-user-management-pro-lang.php:144 th23-user-management-admin.php:314
+msgid "Done"
+msgstr "Erledigt"
+
+#: th23-user-management.php:203 th23-user-management.php:502
+#: th23-user-management.php:869 th23-user-management.php:1077
+#: th23-user-management-pro.php:765 th23-user-management-pro-lang.php:142
+#: th23-user-management-admin.php:176 th23-user-management-admin.php:324
+#: th23-user-management-admin.php:329
+msgid "Error"
+msgstr "Fehler"
+
+#: th23-user-management.php:206 th23-user-management.php:1009
+msgid "Info"
+msgstr "Information"
+
+#: th23-user-management.php:218 th23-user-management.php:1122
+msgid "Edit profile"
+msgstr "Profil ändern"
+
+#: th23-user-management.php:391
+msgid "Invalid request - please use the form below to login"
+msgstr "Ungültige Anfrage - bitte nutze das folgende Formular zum Anmelden"
+
+#: th23-user-management.php:406 th23-user-management.php:503
+msgid ""
+"Cookies are blocked or not supported by your browser. You must <a href="
+"\"https://en.wikipedia.org/wiki/HTTP_cookie\">enable cookies</a> to login on "
+"this site"
+msgstr ""
+"Dein Browser blockiert Cookies oder unterstützt diese nicht. Für die "
+"Anmeldung auf dieser Seite müssen <a href=\"https://de.wikipedia.org/wiki/"
+"HTTP-Cookie\">Cookies zugelassen</a> werden"
+
+#: th23-user-management.php:421
+msgid "Enter a username"
+msgstr "Gib einen Benutzernamen ein"
+
+#: th23-user-management.php:424
+msgid "The username you entered is invalid"
+msgstr "Eingegebener Benutzername ungültig"
+
+#: th23-user-management.php:427
+msgid "Enter your password"
+msgstr "Gib ein Passwort ein"
+
+#: th23-user-management.php:430
+msgid "The password you entered is incorrect"
+msgstr "Eingegebenes Passwort falsch"
+
+#: th23-user-management.php:453 th23-user-management.php:1137
+msgid "Login"
+msgstr "Anmeldung"
+
+#: th23-user-management.php:455
+msgid "Please login, to have full access to this site."
+msgstr "Bitte melde Dich an, um vollen Zugang zu haben."
+
+#: th23-user-management.php:458 th23-user-management.php:839
+#: th23-user-management.php:940
+msgid "Username"
+msgstr "Benutzername"
+
+#: th23-user-management.php:463 th23-user-management.php:1146
+#: th23-user-management-pro.php:470 th23-user-management-pro-lang.php:94
+msgid "Password"
+msgstr "Passwort"
+
+#: th23-user-management.php:467 th23-user-management.php:1148
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+#: th23-user-management.php:471 th23-user-management.php:671
+#: th23-user-management.php:872 th23-user-management.php:1148
+#: th23-user-management.php:1153 th23-user-management-pro.php:1346
+#: th23-user-management-pro.php:1395 th23-user-management-pro-lang.php:236
+#: th23-user-management-pro-lang.php:247
+msgid "Log in"
+msgstr "Anmelden"
+
+#: th23-user-management.php:480 th23-user-management.php:675
+#: th23-user-management.php:873 th23-user-management.php:1158
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: th23-user-management.php:482 th23-user-management.php:673
+#: th23-user-management.php:862 th23-user-management.php:1156
+#: th23-user-management-pro.php:1348 th23-user-management-pro.php:1397
+#: th23-user-management-pro-lang.php:237 th23-user-management-pro-lang.php:248
+msgid "Register"
+msgstr "Registrieren"
+
+#: th23-user-management.php:484
+msgid "Trouble upon login?"
+msgstr "Probleme bei der Anmeldung?"
+
+#: th23-user-management.php:509 th23-user-management.php:516
+#, php-format
+msgid "Welcome %s"
+msgstr "Willkommen %s"
+
+#: th23-user-management.php:510
+#, php-format
+msgid ""
+"You have been logged in successfully, but you have not changed your initial "
+"password yet - please visit <a href=\"%s\">your profile</a> to do so"
+msgstr ""
+"Du hast Dich erforlgreich angemeldet, aber noch nicht Dein vorgegebenes "
+"Passwort geändert - bitte ändere es unter <a href=\"%s\">Dein Profil</a>"
+
+#: th23-user-management.php:517
+msgid "You have been logged in successfully"
+msgstr "Du hast Dich erfoglreich angemeldet"
+
+#: th23-user-management.php:546
+msgid "You are required to re-authenticate, please login again"
+msgstr "Wir müssen Dich verifizieren, bitte melde Dich erneut an"
+
+#: th23-user-management.php:553
+msgid "Your password has been changed, please login again"
+msgstr "Dein Passwort wurde geändert, bitte melde Dich erneut an"
+
+#: th23-user-management.php:610
+msgid "Good bye"
+msgstr "Auf Wiedersehen"
+
+#: th23-user-management.php:611
+msgid "You have been logged out successfully - hope to see you soon again"
+msgstr "Du hast Dich erfolgreich abgemeldet - hoffentlich bis bald"
+
+#: th23-user-management.php:641
+msgid "All cookies have been cleared - please login again"
+msgstr "Alle Cookies wurden gelöscht - bitte melde Dich erneut an"
+
+#: th23-user-management.php:659
+msgid "Troubleshooting"
+msgstr "Problemlösung"
+
+#: th23-user-management.php:661
+msgid ""
+"This website is relying on cookies stored on your computer to remember who "
+"is logged in."
+msgstr ""
+"Diese Webseite benötigt Cookies, welche auf Deinem Computer gespeichert sind,"
+" um korrekt zu funktionieren."
+
+#: th23-user-management.php:662
+msgid ""
+"Unfortunately there might be occasions, when this memory can get confused, e."
+"g. upon logins from different computers under certain circumstances. This "
+"might result in trouble logging in or the submission of information being "
+"denied with an &quot;invalid request&quot; error."
+msgstr ""
+"Leider kann es vorkommen, das hierbei Proble auftreten, z.B. bei der "
+"gleichzeitigen Anmeldung auf unterschiedlichen Computern. Dies kann sich "
+"dadurch bemerkbar machen, dass es zu Problemen bei der Anmeldung oder "
+"&quot;ungültigen Anfragen&quot; kommt."
+
+#: th23-user-management.php:663
+msgid ""
+"To fix this, simply clear all cookies from this site out of your browser by "
+"using the button below and log in again afterwards."
+msgstr ""
+"Um dies zu beheben, reicht es aus, alle Cookies dieser Webseite über die "
+"folgende Schaltfläche zu löschen und sich danach erneut anzumelden."
+
+#: th23-user-management.php:666
+msgid "Delete cookies"
+msgstr "Cookies löschen"
+
+#: th23-user-management.php:709
+msgid "Please enter your e-mail address"
+msgstr "Bitte gib Deine E-Mail Adresse ein"
+
+#: th23-user-management.php:713
+msgid "This e-mail address is invalid, please enter your valid e-mail address"
+msgstr "Die angegebene E-Mail Adresse ist ungültig, bitte gib einen gültige E-Mail Adresse ein"
+
+#: th23-user-management.php:717
+msgid "This e-mail address is already registered, please provide another one"
+msgstr "Die angegebene E-Mail Adresse ist bereits registriert, bitte gib eine andere E-Mail Adresse ein"
+
+#: th23-user-management.php:738 th23-user-management-pro.php:1180
+#: th23-user-management-pro-lang.php:205
+msgid "Invalid request - please use the form below to register"
+msgstr "Ungültige Anfrage - bitte benutze das folgenden Formular um Dich zu registrieren"
+
+#: th23-user-management.php:744
+msgid "Please enter a username"
+msgstr "Bitte gib einen Benutzernamen ein"
+
+#: th23-user-management.php:747
+msgid ""
+"This username is invalid as it contains not allowed characters, please use "
+"another one"
+msgstr ""
+"Der angegebene Benutzername enthält nicht erlaubte Zeichen, bitte gib einen "
+"anderen ein"
+
+#: th23-user-management.php:750
+msgid "This username is already registered, please choose another one"
+msgstr "Der angegebene Benutzername ist bereits registriert, bitte gib einen anderen ein"
+
+#: th23-user-management.php:768 th23-user-management.php:853
+#: th23-user-management-admin.php:449
+msgid "Terms of Usage"
+msgstr "Nutzungsbedingungen"
+
+#.   translators: %s: title of terms & conditions page, as defined by admin
+#: th23-user-management.php:770
+#, php-format
+msgid ""
+"Please accept the %s, agree with processing your data and the usage of "
+"cookies"
+msgstr ""
+"Bitte akzeptiere %s und stimme der Verarbeitung Deiner Daten sowie der "
+"Nutzung von Cookies zu"
+
+#: th23-user-management.php:783
+msgid ""
+"You could not be registered due to a server error. Please try again - if the "
+"error persists contact the administrator of this site"
+msgstr ""
+"Deine Registrierung konnte aufgrund eines Server-Fehlers nicht abgeschlossen "
+"werden. Bitte versuche es erneut - und kontaktiere einen Administrator, wenn "
+"der Fehler weiterhin besteht"
+
+#.   translators: mail title to new users - blog name to be parsed in
+#.   translators: mail title to new users pending admin approval - blog name to be parsed in
+#.   translators: mail title to new user upon registration by admin - blog name to be parsed in
+#.   translators: mail title to new users pending admin approval - blog name to be parsed in
+#.   translators: mail title to new user upon registration by admin - blog name to be parsed in
+#: th23-user-management.php:799 th23-user-management-pro.php:372
+#: th23-user-management-pro.php:441 th23-user-management-pro-lang.php:55
+#: th23-user-management-pro-lang.php:82
+#, php-format
+msgid "[%s] Welcome / Your username and password"
+msgstr "[%s] Willkommen / Dein Benutzername und Passwort"
+
+#.   translators: mail body to new users - 1: blog name, 2: user login, 3: user password, 4: login link
+#: th23-user-management.php:801
+#, php-format
+msgid ""
+"Welcome to %1$s and thanks for joining!\n"
+"\n"
+"Your username: %2$s\n"
+"Your password: %3$s\n"
+"\n"
+"You can now login using your username and password above. Therefore please "
+"visit the following address:\n"
+"%4$s"
+msgstr ""
+"Willkommen bei %1$s und vielen Dank für Deine Registrierung!\n"
+"\n"
+"Dein Benutzername: %2$s\n"
+"Dein Passwort: %3$s\n"
+"\n"
+"Du kannst Dich jetzt mit obigem Nutzernamen und Passwort anmelden. Besuche "
+"dazu bitte die folgende Seite:\n"
+"%4$s"
+
+#: th23-user-management.php:809
+msgid ""
+"You have been registered, but the required mail could not be sent due to a "
+"server error. Please contact the administrator of this site"
+msgstr ""
+"Du hast Dich erfolgreich registriert, aber die notwendige Bestätigung konnte "
+"aufgrund eines Server-Fehlers nicht verschickt werden. Bitte kontaktieren "
+"einen Administrator"
+
+#: th23-user-management.php:812
+msgid ""
+"You have been registered successfully - please check your inbox for initial "
+"password to login using the form below"
+msgstr ""
+"Du hast Dich erfolgreich registriert - bitte überprüfe Deine E-Mails für das "
+"vorgegebene Passwort zur Anmeldung"
+
+#: th23-user-management.php:832 th23-user-management-admin.php:397
+msgid "Registration"
+msgstr "Registrierung"
+
+#: th23-user-management.php:835
+msgid "Please fill out the fields below to register."
+msgstr "Bitte fülle das Formular aus, um Dich zu registrieren."
+
+#: th23-user-management.php:836
+msgid "An initial password will be sent to the given e-mail address."
+msgstr "Ein vorgegebenes Passwort wird Dir an die angegebene E-Mail Adresse geschickt."
+
+#: th23-user-management.php:847
+msgid "E-mail"
+msgstr "E-Mail Adresse"
+
+#.   translators: %s: link with/or title to page with terms & conditions, as defined by admin
+#.   translators: %s: link with/or title to sites terms & conditions, as defined by admin
+#: th23-user-management.php:857 th23-user-management-admin.php:452
+#, php-format
+msgid "I accept the %s, agree with processing my data and the usage of cookies"
+msgstr "Ich akzeptiere %s und stimme der Verarbeitung meiner Daten sowie der Nutzung von Cookies zu"
+
+#: th23-user-management.php:869
+msgid "User registration is currently not allowed"
+msgstr "Aktuell ist keine Registrierung möglich"
+
+#: th23-user-management.php:874
+msgid "Trouble registering?"
+msgstr "Probleme bei der Registrierung?"
+
+#: th23-user-management.php:904
+msgid "Invalid request - please use the form below for any actions"
+msgstr "Ungültige Anfrage - bitte nutze das folgende Formular"
+
+#: th23-user-management.php:910
+msgid ""
+"You have been logged out of all other sessions - except the one on this "
+"browser"
+msgstr ""
+"Du hast Dich erfolgreich auf allen anderen Geräten - außer diesem - "
+"abgemeldet"
+
+#: th23-user-management.php:911
+msgid ""
+"In case you did any changes on your profile below, these have not yet been "
+"saved - please do so via the buttons at the bottom"
+msgstr ""
+"Solltest Du Änderungen an Deinem Profil vorgenommen haben, wurden diese noch "
+"nicht gespeichert - bitte nutze dafür die untenstehenden Schaltflächen"
+
+#: th23-user-management.php:927
+msgid "Your Profile"
+msgstr "Dein Profil"
+
+#: th23-user-management.php:934
+msgid "Modify your profile and settings for this page below."
+msgstr "Ändere Dein Profil und Deine Einstellungen für diese Webseite."
+
+#: th23-user-management.php:936
+msgid "Name"
+msgstr "Name"
+
+#: th23-user-management.php:943
+msgid "Can not be changed"
+msgstr "Kann nicht geändert werden"
+
+#: th23-user-management.php:946
+msgid "First Name"
+msgstr "Vorname"
+
+#: th23-user-management.php:950
+msgid "Last Name"
+msgstr "Nachname"
+
+#: th23-user-management.php:955
+msgid "Nickname"
+msgstr "Spitzname"
+
+#: th23-user-management.php:958
+msgid "Required"
+msgstr "Erforderlich"
+
+#: th23-user-management.php:962
+msgid "Display Name"
+msgstr "Öffentlicher Name"
+
+#: th23-user-management.php:985
+msgid "Contact"
+msgstr "Kontakt"
+
+#: th23-user-management.php:988
+msgid "E-Mail"
+msgstr "E-Mail Adresse"
+
+#: th23-user-management.php:991
+msgid "Required, change needs to be confirmed"
+msgstr "Erforderlich, Änderung muss bestätigt werden"
+
+#: th23-user-management.php:994 th23-user-management.php:1070
+msgid "Note"
+msgstr "Hinweis"
+
+#.   translators: parse in new mail address
+#: th23-user-management.php:996
+#, php-format
+msgid ""
+"The change of your e-mail to %s is pending - please check your new e-mail "
+"inbox for validation"
+msgstr ""
+"Änderung Deiner E-Mail Adresse zu %s noch nicht abgeschlossen - bitte "
+"überprüfe Dein neues Postfach zur Bestätigung"
+
+#: th23-user-management.php:1000
+msgid "Website"
+msgstr "Webseite"
+
+#: th23-user-management.php:1013
+msgid "Biographical Info"
+msgstr "Biografische Angaben"
+
+#: th23-user-management.php:1016
+msgid "Information about yourself provided here might be shown publicly"
+msgstr "Diese Informationen über Dich könnten öffentlich sichtbar sein"
+
+#: th23-user-management.php:1018 th23-user-management-admin.php:144
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: th23-user-management.php:1022 th23-user-management-pro.php:1373
+#: th23-user-management-pro-lang.php:241
+msgid "New password"
+msgstr "Neues Passwort"
+
+#: th23-user-management.php:1025
+msgid "Leave empty, if you do NOT want to change your password"
+msgstr "Leer lassen, wenn Du Dein Passwort NICHT ändern möchtest"
+
+#: th23-user-management.php:1028 th23-user-management-pro.php:1377
+#: th23-user-management-pro-lang.php:242
+msgid "Confirm new password"
+msgstr "Wiederholung neues Passwort"
+
+#: th23-user-management.php:1032 th23-user-management-pro.php:478
+#: th23-user-management-pro.php:1381 th23-user-management-pro-lang.php:96
+#: th23-user-management-pro-lang.php:243
+msgid "Password strength indicator"
+msgstr "Passwort-Sicherheit"
+
+#.   translators: shortcut for "not applicable"
+#: th23-user-management.php:1034 th23-user-management-pro.php:285
+#: th23-user-management-pro.php:480 th23-user-management-pro.php:853
+#: th23-user-management-pro.php:1161 th23-user-management-pro.php:1383
+#: th23-user-management-pro-lang.php:39 th23-user-management-pro-lang.php:98
+#: th23-user-management-pro-lang.php:154 th23-user-management-pro-lang.php:204
+#: th23-user-management-pro-lang.php:245
+msgid "n/a"
+msgstr "Passwort-Sicherheit"
+
+#: th23-user-management.php:1041 th23-user-management.php:1045
+msgid "Log Out of All Other Sessions"
+msgstr "Alle anderen Geräten abmelden"
+
+#: th23-user-management.php:1042
+msgid ""
+"Left your account logged in at a public computer? Lost your phone? This will "
+"log you out everywhere except your current browser."
+msgstr ""
+"Auf einem öffentlichen Computer nicht abgemeldet? Telefon verloren? Hiermit "
+"kannst Du Dich auf allen anderen Geräten außer diesem abmelden."
+
+#: th23-user-management.php:1046
+msgid "You are only logged in at this location."
+msgstr "Du bist nur auf diesem Gerät angemeldet."
+
+#: th23-user-management.php:1060
+msgid "Show Admin Bar when viewing site"
+msgstr "Admin Bar immer anzeigen"
+
+#: th23-user-management.php:1065
+msgid "Save"
+msgstr "Speichern"
+
+#: th23-user-management.php:1066
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: th23-user-management.php:1070
+#, php-format
+msgid ""
+"To edit your profile please visit the <a href=\"%s\">Profile section in the "
+"admin area</a>"
+msgstr ""
+"Du kannst Dein Profil im <a href=\"%s\">Admin-Bereich unter Profil</a> "
+"ändern"
+
+#: th23-user-management.php:1077
+msgid "You are not allowed to edit your profile"
+msgstr "Du hast nicht die Berechtigung Dein Profil zu ändern"
+
+#: th23-user-management.php:1095
+msgid "Displays registration, login, logout and user management options"
+msgstr "Zeigt Registrierung, An-/Abmeldung und weitere Benutzerfunktionen"
+
+#: th23-user-management.php:1126
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: th23-user-management.php:1128
+msgid "Write post"
+msgstr "Beitrag schreiben"
+
+#: th23-user-management.php:1131
+msgid "Log out"
+msgstr "Abmelden"
+
+#: th23-user-management.php:1137 th23-user-management-admin.php:99
+msgid "User Management"
+msgstr "Benutzerverwaltung"
+
+#: th23-user-management.php:1145
+msgid "User"
+msgstr "Benutzername"
+
+#: th23-user-management.php:1159
+msgid "Trouble?"
+msgstr "Probleme?"
+
+#.   translators: parses in file name "wp-login.php"
+#: th23-user-management-pro.php:64 th23-user-management-pro-lang.php:21
+#, php-format
+msgid "%s is disabled"
+msgstr "%s ist deaktiviert"
+
+#: th23-user-management-pro.php:64 th23-user-management-pro.php:75
+#: th23-user-management-pro-lang.php:22 th23-user-management-pro-lang.php:26
+msgid "Failure Notice"
+msgstr "Fehlermeldung"
+
+#: th23-user-management-pro.php:72 th23-user-management-pro-lang.php:23
+msgid "Access to the admin area is restricted on this site!"
+msgstr "Kein Zugang zum Admin-Bereich dieser Webseite!"
+
+#.   translators: 1: homepage URL, 2: blog name
+#: th23-user-management-pro.php:74 th23-user-management-pro-lang.php:25
+#, php-format
+msgid "Please return to <a href=\"%1$s\">%2$s</a>"
+msgstr "Bitte gehe zurück zu <a href=\"%1$s\">%2$s</a>"
+
+#: th23-user-management-pro.php:133 th23-user-management-pro-lang.php:27
+msgid ""
+"Sorry, you do not seem to be human - please solve the captcha shown to proof "
+"otherwise"
+msgstr ""
+"Du scheinst kein Mensch zu sein - bitte löse das Captcha um uns vom "
+"Gegenteil zu überzeugen"
+
+#.   translators: parses in "What? Why?" question into brackets and asociated tooltip, see following strings
+#: th23-user-management-pro.php:141 th23-user-management-pro-lang.php:29
+#, php-format
+msgid "Captcha - please follow the instructions below (%s)"
+msgstr "Captcha (%s)"
+
+#: th23-user-management-pro.php:141 th23-user-management-pro-lang.php:30
+#: th23-user-management-pro-lang.php:34
+msgid "What?"
+msgstr "Was?"
+
+#: th23-user-management-pro.php:141 th23-user-management-pro-lang.php:31
+msgid "A captcha is a small test aiming to distinguish humans from computers."
+msgstr "Ein Captcha ist ein kleiner Test zur Unterscheidung zwischen Mensch und Computer."
+
+#: th23-user-management-pro.php:141 th23-user-management-pro-lang.php:32
+#: th23-user-management-pro-lang.php:35
+msgid "Why?"
+msgstr "Warum?"
+
+#: th23-user-management-pro.php:141 th23-user-management-pro-lang.php:33
+msgid ""
+"Internet today needs to fight a lot of spam and this small test is required "
+"to keep this website clean."
+msgstr ""
+"Im Internet gibt es heute jede Menge Spam und dieser kleine Test hilft, "
+"diese Webseite davon frei zu halten."
+
+#: th23-user-management-pro.php:155 th23-user-management-pro-lang.php:36
+msgid ""
+"Enhanced security measures - please enter your password again and solve the "
+"shown captcha to login"
+msgstr ""
+"Erhöhte Sicherheitsvorkehrungen - bitte gib Dein Passwort erneut ein und "
+"löse das angezeigte Captcha"
+
+#: th23-user-management-pro.php:167 th23-user-management-pro-lang.php:37
+msgid ""
+"You exceeded the maximum number of allowed login attempts - please enter "
+"your password again and solve the shown captcha to login"
+msgstr ""
+"Du hast die maximale Anzahl an Anmeldeversuchen überschritten - bitte gib "
+"Dein Passwort erneut ein und löse das angezeigte Captcha"
+
+#: th23-user-management-pro.php:293 th23-user-management-pro-lang.php:40
+msgid "Please define a password"
+msgstr "Bitte lege ein Passwort fest"
+
+#: th23-user-management-pro.php:297 th23-user-management-pro-lang.php:41
+msgid "Password may not contain the character \"\\\""
+msgstr "Das Passwort darf nicht das Zeichen \"\\\" enthalten"
+
+#: th23-user-management-pro.php:301 th23-user-management-pro-lang.php:42
+msgid ""
+"The password confirmation does not match defined password, please try again"
+msgstr ""
+"Wiederholung des Passworts stimmt nicht mit dem gewählten Passwort überein, "
+"bitte versuche es erneut"
+
+#.   translators: mail title to new users pending address validation - blog name to be parsed in
+#: th23-user-management-pro.php:346 th23-user-management-pro-lang.php:44
+#, php-format
+msgid "[%s] Welcome / Validate your e-mail"
+msgstr "[%s] Willkommen / Bitte bestätige Deine E-Mail Adresse"
+
+#.   translators: mail body to new users pending address validation - 1: blog name, 2: user login, 3: address validation link
+#: th23-user-management-pro.php:348 th23-user-management-pro-lang.php:46
+#, php-format
+msgid ""
+"Welcome to %1$s and thanks for joining!\n"
+"\n"
+"Your username: %2$s\n"
+"\n"
+"Your account is registered, but has to be activated by validating your e-"
+"mail address. Please confirm your e-mail address by visiting the following "
+"link:\n"
+"%3$s"
+msgstr ""
+"Willkommen bei %1$s und vielen Dank, dass Du Dich registriert hast!\n"
+"\n"
+"Dein Benutzername: %2$s\n"
+"\n"
+"Zum Abschluss der Registrierung bestätige bitte noch Deine E-Mail Adresse, "
+"indem Du den folgenden Link aufrufst:\n"
+"%3$s"
+
+#: th23-user-management-pro.php:356 th23-user-management-pro-lang.php:52
+msgid ""
+"You have been registered, but the required verification mail could not be "
+"sent due to a server error. Please contact the administrator of this site"
+msgstr ""
+"Du hast Dich erfolgreich registriert. Leider konnte die erforderliche E-Mail "
+"zur Bestätigung aufgrund eines Server-Fehlers nicht verschickt werden. Bitte "
+"kontaktiere einen Administrator dieser Seite"
+
+#: th23-user-management-pro.php:359 th23-user-management-pro-lang.php:53
+msgid ""
+"You have been registered successfully - please check your inbox for a mail "
+"containing a link for validating your e-mail address"
+msgstr ""
+"Du hast Dich erforlgreich registriert. Wir haben eine Nachricht an Deine "
+"angegebene E-Mail Adresse geschickt - bitte rufe den darin enthalten Link "
+"zur Bestätigung auf"
+
+#.   translators: mail body to new users pending admin approval - 1: blog name, 2: user login, 3: user password
+#: th23-user-management-pro.php:374 th23-user-management-pro-lang.php:57
+#, php-format
+msgid ""
+"Welcome to %1$s and thanks for joining!\n"
+"\n"
+"Your username: %2$s\n"
+"Your password: %3$s\n"
+"\n"
+"Your registration is complete, but has to be approved by an administrator. "
+"You will receive another mail, once your registration has been approved and "
+"you can login using your username and password above."
+msgstr ""
+"Willkommen bei %1$s und vielen Dank, dass Du Dich registriert hast!\n"
+"\n"
+"Dein Benutzername: %2$s\n"
+"Dein Passwort: %3$s\n"
+"\n"
+"Du hast Deine Registrierung erfolgreich abgeschlossen. Diese muss allerdings "
+"noch von einem Administrator bestätigt werden. Du erhälst eine weitere E-"
+"Mail, wenn dies geschehen ist und Du Dich mit obigem Benutzernamen und "
+"Passwort anmelden kannst."
+
+#: th23-user-management-pro.php:382 th23-user-management-pro-lang.php:63
+msgid ""
+"You have been registered, but the required notification mail could not be "
+"sent due to a server error. Please contact the administrator of this site"
+msgstr ""
+"Du hast Dich erfolgreich registriert. Leider konnte die erforderliche E-Mail "
+"zur Bestätigung aufgrund eines Server-Fehlers nicht verschickt werden. Bitte "
+"kontaktiere einen Administrator dieser Seite"
+
+#: th23-user-management-pro.php:385 th23-user-management-pro-lang.php:64
+msgid ""
+"You have been registered successfully, but need approval by an administrator "
+"- please check your inbox for initial password to login afterwards"
+msgstr ""
+"Du hast Dich erfolgreich registriert. Zum Abschluss der Registrierung ist "
+"noch die Bestätigung durch einen Administrator erforderlich. Wir senden Dir "
+"eine E-Mail mit Deinem vorgegebenen Passwort zu, sobald Deine Registrierung "
+"bestätigt ist"
+
+#.   translators: mail title to admin about new user pending approval - blog name to be parsed in
+#.   translators: mail title to admin for new user pending admin approval after mail validation - blog name to be parsed in
+#.   translators: mail title to admin about new user pending approval - blog name to be parsed in
+#.   translators: mail title to admin for new user pending admin approval after mail validation - blog name to be parsed in
+#: th23-user-management-pro.php:392 th23-user-management-pro.php:544
+#: th23-user-management-pro-lang.php:66 th23-user-management-pro-lang.php:105
+#, php-format
+msgid "[%s] New user registration / Approval required"
+msgstr "[%s] Neue Registrierung / Bestätigung erforderlich"
+
+#.   translators: optional part of mail body to admin about new user pending approval (see following string) - 1: registration question, 2: user answer
+#: th23-user-management-pro.php:396 th23-user-management-pro-lang.php:68
+#, php-format
+msgid ""
+"Upon the registration question \"%1$s\" the user answered:\n"
+"%2$s\n"
+"\n"
+msgstr ""
+"Bei der Registrierung hat der Benutzer auf die Frage \"%1$s\" folgende "
+"Antwort gegeben:\n"
+"%2$s\n"
+"\n"
+
+#.   translators: mail body to admin about new user pending approval - 1: blog name, 2: user login, 3: user mail, 4: question upon registration and user answer (see previous string), 5: admin user management page link
+#: th23-user-management-pro.php:402 th23-user-management-pro-lang.php:73
+#, php-format
+msgid ""
+"A user with the following details registered on your site %1$s and is "
+"pending your approval before being able to sign in:\n"
+"\n"
+"Username: %2$s\n"
+"E-mail: %3$s\n"
+"\n"
+"%4$sPlease visit the user management page for your actions:\n"
+"%5$s"
+msgstr ""
+"Ein Nutzer mit den folgenden Details hat sich auauf Deiner Seite %1$s "
+"registriert und wartet auf Deine Bestätigung, bevor er sich anmelden kann:\n"
+"\n"
+"Benutzername: %2$s\n"
+"E-Mail Adresse: %3$s\n"
+"\n"
+"%4$sBitte rufe die Benutzerverwaltung im Admin-Bereich auf, um den Nutzer zu "
+"bestätigen:\n"
+"%5$s"
+
+#: th23-user-management-pro.php:411 th23-user-management-pro-lang.php:80
+msgid ""
+"Notification of an administrator requesting approval for your registration "
+"could not be sent due to a server error. Please contact the administrator of "
+"this site"
+msgstr ""
+"Es konnte leider keine automatische Benachrichtigung über Deine "
+"Registrierung an einen Administrator veschickt werden. Bitte kontaktiere "
+"einen Administrator"
+
+#.   translators: mail body to new user upon registration by admin - 1: blog name, 2: user login, 3: link to complete registration
+#: th23-user-management-pro.php:443 th23-user-management-pro-lang.php:84
+#, php-format
+msgid ""
+"Welcome to %1$s!\n"
+"\n"
+"You have been registered by an administrator.\n"
+"\n"
+"Your username: %2$s\n"
+"\n"
+"To complete the registration and log in, please reset your password visiting "
+"the following link:\n"
+"%3$s"
+msgstr ""
+"Willkommen bei %1$s!\n"
+"\n"
+"Du wurdest druch einen Administrator registriert.\n"
+"\n"
+"Dein Benutzername: %2$s\n"
+"\n"
+"Um die Registrierung abzuschließen und Dich anzumelden, lege bitte Dein "
+"Passwort über folgenden Link fest:\n"
+"%3$s"
+
+#: th23-user-management-pro.php:458 th23-user-management-pro-lang.php:92
+msgid ""
+"A confirmation will be sent to the given e-mail address. Please click the "
+"link provided in there to validate your e-mail address."
+msgstr ""
+"Wir senden Dir eine Nachricht an die angegebene E-Mail Adresse. Zur "
+"Bestätigung klicke bitte den in dieser E-Mail enthaltenen Link."
+
+#: th23-user-management-pro.php:461 th23-user-management-pro-lang.php:93
+msgid ""
+"New members require approval by an admin. You will only be able to login, "
+"once your registration has been approved."
+msgstr ""
+"Neue Benutzer benötigen die Bestätigung durch einen Administrator. Du kannst "
+"Dich erst anmelden, wenn Deine Registrierung entsprechend bestätigt wurde."
+
+#: th23-user-management-pro.php:474 th23-user-management-pro-lang.php:95
+msgid "Confirm password"
+msgstr "Wiederholung Passwort"
+
+#: th23-user-management-pro.php:513 th23-user-management-pro.php:1032
+#: th23-user-management-pro-lang.php:99 th23-user-management-pro-lang.php:179
+msgid ""
+"Validation of your e-mail address failed, the given user is invalid - please "
+"try again or contact the site administrator"
+msgstr ""
+"Verifizierung Deiner E-Mail Adresse fehlgeschlagen - bitte versuche es "
+"erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:522 th23-user-management-pro-lang.php:100
+msgid "Your e-mail address has been validated"
+msgstr "Deine E-Mail Adresse wurde erfolgreich verifiziert"
+
+#: th23-user-management-pro.php:527 th23-user-management-pro-lang.php:101
+msgid "Your e-mail address is already verified"
+msgstr "Deine E-Mail Adresse wurde bereits erfolgreich verifiziert"
+
+#: th23-user-management-pro.php:530 th23-user-management-pro-lang.php:102
+msgid ""
+"Validation of your e-mail address failed, the given validation key is "
+"invalid - please try again or contact the site administrator"
+msgstr ""
+"Verifizierung Deiner E-Mail Adresse fehlgeschlagen, der angegebene Code ist "
+"ungültig - bitte versuche es erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:537 th23-user-management-pro-lang.php:103
+msgid ""
+"Your registration still requires approval by an admin - you will get a "
+"notification mail once your account is approved and you can log in"
+msgstr ""
+"Deiner Registrierung muss noch durch einen Administrator bestätigt werden - "
+"Du erhälst eine Benachrichtigung via E-Mail sobald dies geschehen ist und Du "
+"Dich anmelden kannst"
+
+#.   translators: optional part of mail body to admin for new user pending admin approval after mail validation (see following string) - 1: registration question, 2: user answer
+#: th23-user-management-pro.php:548 th23-user-management-pro-lang.php:107
+#, php-format
+msgid ""
+"Upon the registration question \"%s\" the user answered:\n"
+"%2$s\n"
+"\n"
+msgstr ""
+"Auf die Frage \"%s\" bei der Regsitrierung hat der Benutzer folgende Antwort "
+"gegeben:\n"
+"%2$s\n"
+"\n"
+
+#.   translators: mail body to admin for new user pending admin approval after mail validation - 1: blog name, 2: user login, 3: user mail, 4: question upon registration and user answer (see previous string), 5: admin user management page link
+#: th23-user-management-pro.php:554 th23-user-management-pro-lang.php:112
+#, php-format
+msgid ""
+"A user with the following details registered on your site %1$s, validated "
+"his e-mail address and is pending your approval before being able to sign "
+"in:\n"
+"\n"
+"Username: %2$s\n"
+"E-mail: %3$s\n"
+"\n"
+"%4$sPlease visit the user management page for your actions:\n"
+"%5$s"
+msgstr ""
+"Ein Benutzer mit dem folgenden Details hat sich auf Deiner Seite %1$s "
+"registriert, seine E-Mail Adresse verifiziert und wartet auf Deine "
+"Bestätigung, bevor er sich anmelden kann:\n"
+"\n"
+"Benutzername: %2$s\n"
+"E-Mail Adresse: %3$s\n"
+"\n"
+"%4$sBitte rufe die Benutzerverwaltung im Admin-Bereich auf, um den Nutzer zu "
+"bestätigen:\n"
+"%5$s"
+
+#: th23-user-management-pro.php:563 th23-user-management-pro-lang.php:119
+msgid ""
+"Notification to an administrator requesting approval for your registration "
+"could not be sent due to a server error. Please contact the administrator of "
+"this site"
+msgstr ""
+"Es konnte leider keine automatische Benachrichtigung über Deine "
+"Registrierung an einen Administrator veschickt werden. Bitte kontaktiere "
+"einen Administrator"
+
+#: th23-user-management-pro.php:581 th23-user-management-pro-lang.php:120
+msgid ""
+"Your registration is pending validation of your e-mail address - please "
+"click the link in the mail sent to you upon your registration or contact the "
+"site administrator"
+msgstr ""
+"Zum Abschluss der Registrierung ist noch die Verfizierung Deiner E-Mail "
+"Adresse erforderlich - bitte klicke dazu auf den Link in der E-Mail welche "
+"wir Dir nach der Regsitrierung geschickt haben oder kontaktiere einen "
+"Administrator"
+
+#: th23-user-management-pro.php:585 th23-user-management-pro-lang.php:121
+msgid ""
+"Your registration is pending approval by a site administrator - please wait "
+"to be notified by mail or contact the site administrator"
+msgstr ""
+"Deine Regsitrerung muss noch durch einen Administrator bestätigt werden - "
+"bitte warte auf die entsprechende Bestätigung per E-Mail oder kontaktiere "
+"einen Administrator"
+
+#: th23-user-management-pro.php:588 th23-user-management-pro-lang.php:122
+msgid "Your registration is pending - please contact the site administrator"
+msgstr "Deine Registrierung ist noch nicht abgeschlossen - bitte kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:645 th23-user-management-pro.php:1087
+#: th23-user-management-pro-lang.php:123 th23-user-management-pro-lang.php:191
+msgid "Attention"
+msgstr "Achtung"
+
+#: th23-user-management-pro.php:645 th23-user-management-pro-lang.php:124
+#, php-format
+msgid ""
+"There are new users pending approval not shown in the list below - please "
+"view tab \"<a href=\"%s\">Pending</a>\" to review these users"
+msgstr ""
+"Es gibt neue unbestätigte Benutzer, die nicht in der folgenden Liste "
+"enthalten sind - bitte rufe das Tab \"<a href=\"%s\">Unbestätigt</a>\" um "
+"diese Benutzer zu bestätigen"
+
+#.   translators: mail title to new user after admin approval - blog name to be parsed in
+#: th23-user-management-pro.php:736 th23-user-management-pro-lang.php:126
+#, php-format
+msgid "[%s] Welcome / Ready for login"
+msgstr "[%s] Willkommen / Bereit zur Anmeldung"
+
+#.   translators: option 1 for part of mail body to new user after admin approval (see following strings)
+#: th23-user-management-pro.php:739 th23-user-management-pro-lang.php:128
+msgid ""
+"Your password: As chosen by you upon registration\n"
+"\n"
+"In case you can not remember your password, use the following link to reset "
+"it:"
+msgstr ""
+"Dein Passwort: Wie bei Registrierung angegeben\n"
+"\n"
+"Solltest Du Dein Passwort nicht mehr wissen, kannst Du es über folgenden "
+"Link zurücksetzen :"
+
+#.   translators: option 2 for part of mail body to new user after admin approval (see following string)
+#: th23-user-management-pro.php:745 th23-user-management-pro-lang.php:132
+msgid ""
+"Your password: As sent in a previous mail\n"
+"\n"
+"In case you do not have the mail with your password anymore, use the "
+"following link to reset it:"
+msgstr ""
+"Dein Passwort: Wie in vorheriger E-Mail zugeschickt\n"
+"\n"
+"Solltest Du die vorherige E-Mail mit Deinem Passwort nicht mehr haben, "
+"kannst Du über den folgenden Link ein neues Passwort festlegen:"
+
+#.   translators: mail body to new user after admin approval - 1: blog name, 2: link to login page, 3: user login, 4: password hint (see previous strings), 5: link to lost password page
+#: th23-user-management-pro.php:750 th23-user-management-pro-lang.php:136
+#, php-format
+msgid ""
+"Welcome once again to %1$s - your registration has been approved and you can "
+"now login using the following link:\n"
+"%2$s\n"
+"\n"
+"Your username: %3$s\n"
+"%4$s\n"
+"%5$s"
+msgstr ""
+"Nochmal Willkommen bei %1$s! Deine Registrierung ist nun bestätigt und Du "
+"kannst Dich über den folgenden Link anmelden:\n"
+"%2$s\n"
+"\n"
+"Dein Benutzername: %3$s\n"
+"%4$s\n"
+"%5$s"
+
+#: th23-user-management-pro.php:765 th23-user-management-pro-lang.php:143
+#, php-format
+msgid "An error occured, while sending notification to user with the ID: %s"
+msgstr "Beim Versenden der Benachrichtigung an den Nutzer mit der folgenden ID ist ein Fehleraufgetreten: %s"
+
+#: th23-user-management-pro.php:768 th23-user-management-pro-lang.php:145
+msgid "Selected user(s) have been approved"
+msgstr "Bestätigung für ausgwählte(n) Benutzer erfolgreich "
+
+#: th23-user-management-pro.php:783 th23-user-management-pro-lang.php:146
+msgid "Role - Reason"
+msgstr "Rolle - Begründung"
+
+#: th23-user-management-pro.php:786 th23-user-management-pro-lang.php:147
+msgid "Answer to registration question"
+msgstr "Antwort auf Registrierungsfrage "
+
+#.   translators: user status for usage in column of a table
+#: th23-user-management-pro.php:797 th23-user-management-pro-lang.php:149
+msgid "Pending - Mail validation"
+msgstr "Unbestätigt - Verifizierung E-Mail"
+
+#: th23-user-management-pro.php:800 th23-user-management-pro-lang.php:150
+msgid "Pending - Admin approval"
+msgstr "Unbestätigt - Admin Bestätigung"
+
+#: th23-user-management-pro.php:813 th23-user-management-pro-lang.php:151
+msgid "Delete"
+msgstr "Löschen"
+
+#: th23-user-management-pro.php:815 th23-user-management-pro-lang.php:152
+#: th23-user-management-admin.php:249
+msgid "Approve"
+msgstr "Freigeben"
+
+#: th23-user-management-pro.php:872 th23-user-management-pro-lang.php:155
+msgid "Action cancelled, no changes have been saved"
+msgstr "Aktion abgebrochen, es wurden keine Änderungen gespeichert"
+
+#: th23-user-management-pro.php:886 th23-user-management-pro-lang.php:156
+msgid "Invalid request - please use the form below to update your profile"
+msgstr "Ungültige Anfrage - bitte benutze das folgende Formular um Dein Profil zu ändern "
+
+#: th23-user-management-pro.php:938 th23-user-management-pro-lang.php:157
+msgid "Your profile has been updated"
+msgstr "Dein Profil wurde erfolgreich geändert"
+
+#.   translators: mail title to user after password change - blog name to be parsed in
+#: th23-user-management-pro.php:949 th23-user-management-pro.php:1298
+#: th23-user-management-pro-lang.php:159 th23-user-management-pro-lang.php:225
+#, php-format
+msgid "[%s] Notice of changed password"
+msgstr "[%s] Hinweis auf Passwort-Änderung"
+
+#.   translators: mail body to user after password change - 1: blog name, 2: admin mail address
+#: th23-user-management-pro.php:951 th23-user-management-pro.php:1300
+#: th23-user-management-pro-lang.php:161 th23-user-management-pro-lang.php:227
+#, php-format
+msgid ""
+"The password for your account on %1$s has been changed.\n"
+"\n"
+"If you did not change it, please contact the Site Administrator:\n"
+"%2$s"
+msgstr ""
+"Dein Passwort bei %1$s wurde geändert.\n"
+"\n"
+"Solltest Du diese Änderung nicht veranlasst haben, kontaktiere bitte einen "
+"Administrator:\n"
+"%2$s"
+
+#.   translators: mail title to user for validation of mail address change - blog name to be parsed in
+#: th23-user-management-pro.php:986 th23-user-management-pro-lang.php:166
+#, php-format
+msgid "[%s] Validate changed e-mail address"
+msgstr "[%s] Bestätigung geänderter E-Mail Adresse"
+
+#.   translators: mail body to user for validation of mail address change (option 1: after own change) - 1: blog name, 2: link for mail validation
+#: th23-user-management-pro.php:989 th23-user-management-pro-lang.php:168
+#, php-format
+msgid ""
+"You changed the e-mail address for your account on %1$s.\n"
+"\n"
+"Please confirm your new e-mail address by visiting the following link:\n"
+"%2$s"
+msgstr ""
+"Du hast Deine E-Mail Adresse bei %1$s geändert.\n"
+"\n"
+"Bitte bestätige Deine neue E-Mail Adresse, indem Du folgenden Link aufrufst:\n"
+"%2$s"
+
+#.   translators: mail body to user for validation of mail address change (option 2: admin initiated change) - 1: blog name, 2: link for mail validation
+#: th23-user-management-pro.php:996 th23-user-management-pro-lang.php:173
+#, php-format
+msgid ""
+"The e-mail address for your account on %1$s has been changed.\n"
+"\n"
+"Please confirm your new e-mail address by visiting the following link:\n"
+"%2$s"
+msgstr ""
+"Deine E-Mail Adresse bei %1$s wurde geändert.\n"
+"\n"
+"Bitte bestätige Deine neue E-Mail Adresse, indem Du folgenden Link aufrufst:\n"
+"%2$s"
+
+#: th23-user-management-pro.php:1002 th23-user-management-pro-lang.php:177
+msgid ""
+"The required verification mail for changing the e-mail address could not be "
+"sent due to a server error. The new address has not been saved, please try "
+"again or contact the administrator of this site"
+msgstr ""
+"Aufgrund eines Server-Fehlers konnte keine E-Mail zur Bestätigung Deiner "
+"neuen E-Mail Adresse gesendet werden. Die neue E-Mail Adresse wurde nicht "
+"gespeichert - bitte versuche es erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:1005 th23-user-management-pro-lang.php:178
+msgid ""
+"The change of your e-mail address requires confirmation - please check your "
+"new inbox and follow the validation link provided"
+msgstr ""
+"Änderungen Deiner E-Mail Adresse erfordern eine Bestätigung - wir senden Dir "
+"eine Nachricht an Deine neue E-Mail Adresse. Bitte klick den Link in dieser "
+"E-Mail zur Bestätigung."
+
+#: th23-user-management-pro.php:1040 th23-user-management-pro-lang.php:180
+msgid ""
+"No pending change of e-mail could be found - please try again the link, try "
+"again to change your e-mail address or contact the site administrator"
+msgstr ""
+"Es gibt keine ausstehende Änderung Deiner E-Mail Adresse - bitte versuche "
+"erneut den entsprechenden Link aufzurufen, versuche erneut Deine E-Mail "
+"Adresse zu ändern oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:1048 th23-user-management-pro-lang.php:181
+msgid ""
+"Update of your e-mail address failed - please try again or contact the site "
+"administrator"
+msgstr ""
+"Änderung Deiner E-Mail Adresse konnte nicht durchgeführt werden - bitte "
+"versuche es erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:1051 th23-user-management-pro-lang.php:182
+msgid "Your e-mail address has successfully been changed"
+msgstr "Deine E-Mail Adresse wurde erfolgreich geändert"
+
+#: th23-user-management-pro.php:1058 th23-user-management-pro-lang.php:183
+msgid ""
+"Validation of your e-mail address failed, the given validation key is "
+"invalid - please try again the link, try again to change your e-mail address "
+"or contact the site administrator"
+msgstr ""
+"Verifizierung Deiner E-Mail Adresse fehlgeschlagen, der angegebene Code ist "
+"ungültig - bitte versuche erneut den entsprechenden Link aufzurufen, "
+"versuche erneut Deine E-Mail Adresse zu ändern oder kontaktiere einen "
+"Administrator"
+
+#.   translators: mail title to user after change of mail address - blog name to be parsed in
+#: th23-user-management-pro.php:1066 th23-user-management-pro-lang.php:185
+#, php-format
+msgid "[%s] Notice of changed e-mail address"
+msgstr "[%s] Hinweis auf Änderung der E-Mail Adresse"
+
+#.   translators: mail body to user after change of mail address - do NOT change "###SITENAME###", "###USERNAME###" or "###ADMIN_EMAIL###" strings
+#: th23-user-management-pro.php:1068 th23-user-management-pro-lang.php:187
+msgid ""
+"The e-mail address for your account (###USERNAME###) on ###SITENAME### has "
+"been changed.\n"
+"\n"
+"If you did not change it, please contact the Site Administrator:\n"
+"###ADMIN_EMAIL###"
+msgstr ""
+"Die E-Mail Adresse für Deinen Zugang (###USERNAME###) bei ###SITENAME### "
+"wurde geändert.\n"
+"\n"
+"Solltest Du die Änderungn nicht veranlasst haben, kontaktiere bitte umgehend "
+"einen Administrator:\n"
+"###ADMIN_EMAIL###"
+
+#.   translators: parses in new mail address
+#: th23-user-management-pro.php:1090 th23-user-management-pro-lang.php:193
+#, php-format
+msgid ""
+"Pending change of your e-mail address requires confirmation - please check "
+"your new inbox \"%s\" and follow the validation link provided"
+msgstr ""
+"Bestätigung für Änderung Deiner E-Mail Adresse steht noch aus - bitte "
+"überprüfe Dein E-Mail Postfach \"%s\" und klicke den Bestätigungslink, "
+"welchen wir Dir gesendet haben"
+
+#.   translators: parses in new mail address
+#: th23-user-management-pro.php:1094 th23-user-management-pro-lang.php:195
+#, php-format
+msgid ""
+"There is a pending change of e-mail address for this user - intended new "
+"address is \"%s\""
+msgstr ""
+"Ausstehende Änderung der E-Mail Adresse - neue E-Mail Adresse ist \"%s\""
+
+#.   translators: mail title to user for password reset triggered by admin - blog name to be parsed in
+#.   translators: mail title to user for initiating password reset - blog name to be parsed in
+#.   translators: mail title to user for password reset triggered by admin - blog name to be parsed in
+#.   translators: mail title to user for initiating password reset - blog name to be parsed in
+#: th23-user-management-pro.php:1122 th23-user-management-pro.php:1221
+#: th23-user-management-pro-lang.php:197 th23-user-management-pro-lang.php:211
+#, php-format
+msgid "[%s] Reset password"
+msgstr "[%s] Passwort zurücksetzen"
+
+#.   translators: mail body to user for password reset triggered by admin - 1: blog name, 2: password reset link
+#: th23-user-management-pro.php:1124 th23-user-management-pro-lang.php:199
+#, php-format
+msgid ""
+"An administrator initiated a password reset for your account on %1$s.\n"
+"\n"
+"Please reset your password visiting the following address:\n"
+"%2$s"
+msgstr ""
+"Ein Administrator hat das Zurücksetzen des Passworts für Deinen Zugang bei %"
+"1$s veranlasst.\n"
+"\n"
+"Du kannst Dein Passwort über folgenden Link zurücksetzen:\n"
+"%2$s"
+
+#: th23-user-management-pro.php:1190 th23-user-management-pro-lang.php:206
+msgid "Enter a username or e-mail address"
+msgstr "Gib einen Benutzernamen oder eine E-Mail Adresse ein"
+
+#: th23-user-management-pro.php:1196 th23-user-management-pro-lang.php:207
+msgid "There is no user registered with that e-mail"
+msgstr "Es gibt keinen Benutzer mit dieser E-Mail Adresse"
+
+#: th23-user-management-pro.php:1202 th23-user-management-pro-lang.php:208
+msgid "There is no user registered with that username"
+msgstr "Es gibt keinen Benutzer mit diesem Benutzernamen"
+
+#: th23-user-management-pro.php:1209 th23-user-management-pro-lang.php:209
+msgid "Password reset is not possible for this user"
+msgstr "Zurücksetzen des Passworts ist für diesen Benutzer nicht möglich"
+
+#.   translators: mail body to user for initiating password reset - 1: blog name, 2: password reset link
+#: th23-user-management-pro.php:1223 th23-user-management-pro-lang.php:213
+#, php-format
+msgid ""
+"Someone requested the password to be reset for your account on %1$s.\n"
+"\n"
+"If this is a mistake, just ignore this email and nothing will happen.\n"
+"\n"
+"To reset your password, please visit the following address:\n"
+"%2$s"
+msgstr ""
+"Jemand hat das Zurücksetzen des Passworts für Deinen Zugang bei %1$s "
+"veranlasst.\n"
+"\n"
+"Sollte dies ein Fehler sein, ignoriere diese E-Mail einfach und es wird "
+"nichts geschehen.\n"
+"\n"
+"Um Dein Passwort zurückzusetzen, rufe bitte folgenden Link auf:\n"
+"%2$s"
+
+#: th23-user-management-pro.php:1232 th23-user-management-pro-lang.php:219
+msgid ""
+"The e-mail to reset your password could not be sent due to a server error. "
+"Please try again - if the error persists contact the administrator of this "
+"site"
+msgstr ""
+"E-Mail zum Zurücksetzen des Passworts konnte aufgrund eines Server-Fehlers "
+"nicht verschickt werden. Bitte versuche es erneut - und kontaktiere einen "
+"Administrator, wenn der Fehler erneut auftritt"
+
+#: th23-user-management-pro.php:1235 th23-user-management-pro-lang.php:220
+msgid ""
+"The reset of your password has been initiated successfully - please check "
+"your inbox and follow the link provided"
+msgstr ""
+"Das Zurücksetzen Deines Passwort wurde erfolgreich veranlasst - bitte "
+"überprüfe Deine E-Mails und folge dem Link, welchen wir Dir geschickt haben"
+
+#: th23-user-management-pro.php:1260 th23-user-management-pro-lang.php:221
+msgid ""
+"Resetting your password failed, the given user is invalid - please try again "
+"or contact the site administrator"
+msgstr ""
+"Zurücksetzen Deines Passworts fehlgeschlagen, der angegebene Benutzer ist "
+"ungültig - bitte versuche es erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:1273 th23-user-management-pro-lang.php:222
+msgid ""
+"Resetting your password failed, the verification key is invalid - please try "
+"again or contact the site administrator"
+msgstr ""
+"Zurücksetzen Deines Passworts fehlgeschlagen, der angegebene Code ist "
+"ungültig - bitte versuche es erneut oder kontaktiere einen Administrator"
+
+#: th23-user-management-pro.php:1286 th23-user-management-pro-lang.php:223
+msgid "Invalid request - please use the form below to reset your password"
+msgstr "Ungültige Anfrage - bitte benutze das folgende Formular, um Dein Passwort zurückzusetzen"
+
+#: th23-user-management-pro.php:1306 th23-user-management-pro-lang.php:231
+msgid "Your password has been changed - please login using your new password"
+msgstr "Dein Passwort wurde erfolgreich geändert - bitte melde Dich mit Deinem neuen Passwort an"
+
+#: th23-user-management-pro.php:1330 th23-user-management-pro-lang.php:232
+msgid "Lost Password"
+msgstr "Passwort vergessen"
+
+#: th23-user-management-pro.php:1332 th23-user-management-pro-lang.php:233
+msgid ""
+"Please fill out the form below. You can enter your username or email "
+"address. You will receive a link to create a new password via email."
+msgstr ""
+"Bitte gib entweder Deinen Benutzernamen oder Deine E-Mail Adresse an. Du "
+"erhälst dann einen Link per E-Mail, um ein neues Passwort festzulegen."
+
+#: th23-user-management-pro.php:1335 th23-user-management-pro-lang.php:234
+msgid "Username or e-mail"
+msgstr "Benutzername oder E-Mail Adresse"
+
+#: th23-user-management-pro.php:1341 th23-user-management-pro-lang.php:235
+msgid "Get New Password"
+msgstr "Passwort zurücksetzen"
+
+#: th23-user-management-pro.php:1350 th23-user-management-pro.php:1399
+#: th23-user-management-pro-lang.php:238 th23-user-management-pro-lang.php:249
+msgid "Trouble upon password reset?"
+msgstr "Probleme beim Zurücksetzen des Passworts?"
+
+#: th23-user-management-pro.php:1368 th23-user-management-pro-lang.php:239
+msgid "Reset Password"
+msgstr "Passwort zurücksetzen"
+
+#: th23-user-management-pro.php:1370 th23-user-management-pro-lang.php:240
+msgid "Please enter a new password for your account."
+msgstr "Bitte gib ein neues Passwort für Dein Benutzerkonto ein."
+
+#: th23-user-management-pro.php:1387 th23-user-management-pro-lang.php:246
+msgid "Save Password"
+msgstr "Passwort speichern"
+
+#: th23-user-management-admin.php:75
+msgid "Pending"
+msgstr "Unbestätigt"
+
+#: th23-user-management-admin.php:101
+msgid "You can NOT delete this page!"
+msgstr "Du kannst diese Seite NICHT löschen!"
+
+#: th23-user-management-admin.php:101
+msgid ""
+"This page belongs to the th23 User Management plugin and is required by it "
+"to work properly!"
+msgstr ""
+"Diese Seite gehört zum th23 User Management Plugin und wird benötigt, damit "
+"dieses korrekt funktioniert!"
+
+#: th23-user-management-admin.php:101
+msgid ""
+"Do NOT worry...your visitors on the site will never see this text - it will "
+"be replaced by the appropriate page, e.g. the registration page, the edit "
+"profile page, etc."
+msgstr ""
+"Keine Sorge...Deine Besucher auf der Seite bekommen diesen Text nicht zu "
+"sehen - der Inhalt wird mit der jeweils nötige Seite ersetzt, z.B. "
+"Registrierung, Profil, etc."
+
+#: th23-user-management-admin.php:156 th23-user-management-admin.php:167
+#: th23-user-management-admin.php:529
+msgid "Support"
+msgstr "Hilfe"
+
+#: th23-user-management-admin.php:161
+msgid "Get additional functionality"
+msgstr "Erhalte zusätzliche Funktionen"
+
+#.   translators: parses in "Professional" as name of the version
+#: th23-user-management-admin.php:163 th23-user-management-admin.php:520
+#, php-format
+msgid "Upgrade to %s version"
+msgstr "Auf Version %s upgraden"
+
+#: th23-user-management-admin.php:172 th23-user-management-admin.php:268
+#: th23-user-management-admin.php:394
+msgid "Warning"
+msgstr "Warnung"
+
+#: th23-user-management-admin.php:172
+#, php-format
+msgid ""
+"This plugin might not work properly on your installation - please check <a "
+"href=\"%s\">Settings page</a> for details"
+msgstr ""
+"Dieses Plugin arbeitet möglicherweise nicht korrekt in Deinem Setup - bitte "
+"siehe die <a href=\"%s\">Plugin Einstellungen</a> für weitere Details"
+
+#.   translators: 1: "Professional" as name of the version, 2: "th23-user-management-pro.php" as file name, 3: version number of the PRO file, 4: version number of main file, 5: link to WP update page, 6: link to th23.net plugin download page
+#: th23-user-management-admin.php:178
+#, php-format
+msgid ""
+"The version of the %1$s file (%2$s, version %3$s) does not match with the "
+"overall plugin (version %4$s) - please make sure you update the overall "
+"plugin to the latest version e.g. via the <a href=\"%5$s\">automatic update "
+"function</a> and upload the latest version of the %1$s file from %6$s onto "
+"your webserver"
+msgstr ""
+"Die Version der %1$s Datei (%2$s, Versionsnummer %3$s) stimmt nicht mit der "
+"Version des restlichen Plugins (Versionsnummer %4$s) überein - bitte führe "
+"ein Update auf die neuste Version dieses Plugins mittels <a href=\"%5$s\">"
+"automatischem Update</a> durch und lade die neuste Version der %1$s Date von "
+"%6$s auf Deinen Server hoch"
+
+#: th23-user-management-admin.php:190
+msgid "Legal information"
+msgstr "Rechtliche Informationen"
+
+#: th23-user-management-admin.php:194
+msgid "Title"
+msgstr "Titel"
+
+#: th23-user-management-admin.php:200
+msgid "If left empty, &quot;Terms of Usage&quot; will be used"
+msgstr "Wenn leer gelassen, wird &quot;Nutzungsbedingungen&quot; verwendet"
+
+#: th23-user-management-admin.php:206
+msgid "URL"
+msgstr "URL"
+
+#: th23-user-management-admin.php:212
+msgid "Can be relative URL - if left empty, no link will be added"
+msgstr "Kann als relative URL angegeben werde - wenn leer gelassen, wird kein Link hinzugefügt"
+
+#: th23-user-management-admin.php:220
+msgid ""
+"Reference a page providing user with legally required information about "
+"terms of usage, impressum and data provacy policy"
+msgstr ""
+"Seite mit rechtlichen Informationen für die Nutzer zu Nutzungsbedingungen, "
+"Impressum und Datenschutz"
+
+#: th23-user-management-admin.php:268
+msgid ""
+"This plugin is not designed to work on a multisite setup - it is recommended "
+"not to use this plugin in such an environment"
+msgstr ""
+"Du benutzt eine \"Multisite\" Installation - dieses Plugin ist nicht darauf "
+"ausgelegt und wird daher möglicherweise nicht korrekt funktionieren"
+
+#.   translators: parses in "Professional" as name of the version
+#: th23-user-management-admin.php:275
+#, php-format
+msgid ""
+"You are currently using the free version of this plugin, in which we support "
+"a lot of very useful features to give your users a better feel browsing your "
+"site. To even improve that experience further, there is a %s version "
+"available adding some equally useful features:"
+msgstr ""
+"Du benutzt aktuell die kostenfreie Version dieses Plugins, welche bereits "
+"viele nützliche Funktionen für ein besseres Nutzererlebnis auf Deiner "
+"Webseite bietet. Um die Anwenderfreundlichkeit weiter zu steigern ist auch "
+"eine %s Version verfügbar, die weitere sinnvolle Funktionen ergänzt:"
+
+#: th23-user-management-admin.php:276
+msgid ""
+"<strong>All user management actions available on frontend</strong> styled "
+"according to theme - including profile changes, lost password, reset password"
+msgstr ""
+"<strong>Die gesamte Benutzerverwaltung ist für den Nutzer im Frontend</"
+"strong> möglich und durch das Theme entsprechend gestylt - inklusive "
+"Anpassungen des Benutzerprofils, Passwort vergessen, Passwort Reset"
+
+#.   translators: parses in file name "wp-login.php"
+#: th23-user-management-admin.php:278
+#, php-format
+msgid ""
+"<strong>Access to the unstyled admin area can be restricted</strong> based "
+"on user groups - %s can be disabled completely"
+msgstr ""
+"<strong>Zugang zum ungestylten Admin Bereich kann beschränkt werden</strong> "
+"- %s kann komplett deaktiviert werden"
+
+#: th23-user-management-admin.php:279
+msgid ""
+"<strong>User chosen password upon registration</strong> option available - "
+"including initial e-mail validation"
+msgstr ""
+"<strong>Benutzer können bei der Registrierung ihr Passwort frei wählen</"
+"strong> - inklusive einer Validierung der E-Mail Adresse"
+
+#: th23-user-management-admin.php:280
+msgid ""
+"<strong>Admin approval for new users</strong> option available - before user "
+"can login"
+msgstr ""
+"<strong>Möglichkeit für Freigabe neuer Benutzer durch einen Administrator</"
+"strong> bevor sich Nutzer einloggen können"
+
+#: th23-user-management-admin.php:281
+msgid ""
+"<strong>Use reCaptcha against spam and bots</strong> upon registration, lost "
+"password and login"
+msgstr ""
+"<strong>Einbindung von reCaptcha gegen Spam und Bots</strong> bei "
+"Registrierung, Passwort vergessen und Login"
+
+#: th23-user-management-admin.php:282
+msgid "Introduction of e-mail re-validation upon changes of address"
+msgstr "Einführung von erneuter E-Mail validierung bei Änderung der Adresse"
+
+#.   translators: 1: upgrade link to th23.net, 2: "Professional" as name of the version
+#: th23-user-management-admin.php:284
+#, php-format
+msgid ""
+"Get all these additional features - <a href=\"%1$s\">upgrade to the %2$s "
+"version today</a>"
+msgstr ""
+"Nutze diese zusätzlichen Funktionen - <a href=\"%1$s\">upgrade noch heute "
+"auf die %2$s Version</a>"
+
+#: th23-user-management-admin.php:314
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: th23-user-management-admin.php:324
+msgid ""
+"No valid/ published user management page has been found - it was "
+"automatically attempted to create a new one, please refresh this page and "
+"see if the error persists"
+msgstr ""
+"Es wurde keine entsprechende Seite zur Benutzerverwaltung gefunden - es "
+"wurde automatisch versucht, diese Seite zu erstellen, bitte lade diese Seite "
+"erneut um zu sehen, ob der Fehler weiterhin besteht"
+
+#: th23-user-management-admin.php:329
+msgid ""
+"reCAPTCHA requires a public and a private key to work - despite your "
+"settings it will be disabled until you define them, see settings below for "
+"information on how obtain these keys"
+msgstr ""
+"reCAPTCHA benötigt einen öffentlichen und einen privaten Schlüssel um zu "
+"funktionieren - trotz Deiner Einstellungen bleibt es deaktiviert, bis Du "
+"diese angibst, siehe die Beschreibungen unten wie Du diese Schlüssel erhälst"
+
+#: th23-user-management-admin.php:340
+msgid "General"
+msgstr "Allgemein"
+
+#: th23-user-management-admin.php:344
+msgid "Overlay message time"
+msgstr "Anzeigedauer für Einblendungen"
+
+#: th23-user-management-admin.php:345
+msgid ""
+"Duration in seconds until overlay messages shown to the user upon login/ "
+"logout disappears automatically - set to \"0\" for no automatic "
+"disappearance - Note: Error messages will never disappear automatically"
+msgstr ""
+"Dauer in Sekunden nach der Einblendungen zu An-/Abmeldungen automatisch "
+"verschwinden - setze dies auf \"0\" um automatisches Ausblenden zu "
+"deaktivieren - Hinweis: Fehlermeldungen verschwinden niemals automatisch"
+
+#: th23-user-management-admin.php:348
+msgid "Access"
+msgstr "Zugang"
+
+#: th23-user-management-admin.php:352
+msgid "Access to admin area for"
+msgstr "Zugang zum Admin Bereich"
+
+#.   translators: following 5 strings name user groups as named in WP admin area
+#: th23-user-management-admin.php:356 th23-user-management-admin.php:375
+msgid "Admins only"
+msgstr "Nur Administratoren"
+
+#: th23-user-management-admin.php:357 th23-user-management-admin.php:376
+msgid "Admins and Editors only"
+msgstr "Nur Administratoren und Editors"
+
+#: th23-user-management-admin.php:358 th23-user-management-admin.php:377
+msgid "Admins, Editors and Authors only"
+msgstr "Nur Administratoren, Editors und Authoren"
+
+#: th23-user-management-admin.php:359
+msgid "Admins, Editors, Authors and Contributors only [recommended]"
+msgstr "Nur Administratoren, Editors, Authoren und Contributors [empfohlen]"
+
+#: th23-user-management-admin.php:360 th23-user-management-admin.php:379
+msgid ""
+"All registered users (Admins, Editors, Authors, Contributors and "
+"Subscribers) [WordPress default]"
+msgstr ""
+"Alle registrierten benutzer (Administratoren, Editors, Authoren, "
+"Contributors und Subscribers) [WordPress Standard]"
+
+#: th23-user-management-admin.php:365
+msgid ""
+"Users not allowed to access the admin area will get an error message - "
+"forcing them to return to the home page of your site"
+msgstr ""
+"Benutzer die keinen Zugang zum Admin Bereich haben, erhalten eine "
+"Fehlermeldung - und müssen zur Homepage zurückkehren"
+
+#: th23-user-management-admin.php:370
+msgid "Show admin bar for"
+msgstr "Zeige die Admin-Bar für"
+
+#.   translators: following 7 strings name user groups as named in WP admin area
+#: th23-user-management-admin.php:374
+msgid "Groups having access to the admin area only [recommended]"
+msgstr "Gruppen die Zugang zum Admin Bereich haben [empfohlen]"
+
+#: th23-user-management-admin.php:378
+msgid "Admins, Editors, Authors and Contributors only"
+msgstr "Nur Administratoren, Editors, Authoren und Contributors"
+
+#: th23-user-management-admin.php:380
+msgid "No one (disable admin bar)"
+msgstr "Niemand (Admin-Bar deaktivieren)"
+
+#: th23-user-management-admin.php:385
+msgid "Defines which users will see the admin bar on the frontend of your site"
+msgstr "Legt fest welche Benutzer die Admin-Bar im Frontend Deiner Webseite sehen"
+
+#.   translators: parses in file name "wp-login.php"
+#: th23-user-management-admin.php:391
+#, php-format
+msgid "Allow %s"
+msgstr "Zugriff auf %s"
+
+#.   translators: parses in file name "wp-login.php"
+#: th23-user-management-admin.php:394
+#, php-format
+msgid "Allow access to %s"
+msgstr "Erlaube Zugriff auf %s"
+
+#: th23-user-management-admin.php:394
+msgid ""
+"Enabling this setting users may circumvent some settings below, e.g. mail "
+"validation, admin approval, captcha - it is <strong>strongly recomended to "
+"leave this unchecked</strong>!"
+msgstr ""
+"Aktivierung dieser Einstellung erlaubt einige der weiteren Vorgaben zu "
+"umgehen, z.B. die Validierung der E-Mail Adresse, die Freigabe durch einen "
+"Administrator, das Captcha - es wird <strong>dringend empfohlen diese Option "
+"NICHT zu aktivieren</strong>!"
+
+#: th23-user-management-admin.php:401
+msgid "Membership"
+msgstr "Mitgliedschaft"
+
+#: th23-user-management-admin.php:402
+msgid "New users can register"
+msgstr "Neue Nutzer können sich registrieren"
+
+#: th23-user-management-admin.php:402
+msgid "This setting changes the standard defined under Settings - General"
+msgstr "Diese Einstellung ändert den Standard unter Einstellungen - Allgemein entsprechend"
+
+#: th23-user-management-admin.php:411
+msgid "Password selection"
+msgstr "Passwort Auswahl"
+
+#: th23-user-management-admin.php:412
+msgid ""
+"Allow user to choose password upon registration - will require user to "
+"validate his mail address"
+msgstr ""
+"Erlaube neuen Benutzern bei der Registrierung ein Passwort auszuwählen - "
+"erfordert die Validierung der E-Mail Adresse durch den Nutzer"
+
+#: th23-user-management-admin.php:417
+msgid "User approval"
+msgstr "Benutzer Freigabe"
+
+#: th23-user-management-admin.php:418
+msgid ""
+"Newly registered users require approval by an admin before being allowed to "
+"login"
+msgstr ""
+"Neue Benutzer benötigen die Freigabe durch einen Administrator bevor sie "
+"sich einloggen können"
+
+#: th23-user-management-admin.php:426
+msgid "Registration question"
+msgstr "Frage bei der Registrierung"
+
+#: th23-user-management-admin.php:427
+msgid ""
+"Question to request additional information from users upon registration, e."
+"g. \"How did you find out about this page?\" to determine if the request for "
+"approving a newly registered user is valid or should be denied - leave empty "
+"to not show any question"
+msgstr ""
+"Frage an neue Benutzer bei der Registrierung um weitere Informationen zu "
+"bekommen, z.B. \"Wie hast Du von dieser Webseite erfahren?\" um über die "
+"Freigabe des neuen Nutzers zu entscheiden - lasse die Einstellung leer um "
+"keine Frage zu stellen"
+
+#: th23-user-management-admin.php:432
+msgid "New User Default Role"
+msgstr "Standard Rolle neuer Benutzer"
+
+#: th23-user-management-admin.php:435
+msgid ""
+"In case admin approval is required for new users, they will be assigned to "
+"this selection after the approval has been granted by an admin!<br/>This "
+"setting changes the standard defined under Settings - General"
+msgstr ""
+"Sofern die Freigabe neuer Benutzer durch einen Adminsitrator erforderlich "
+"ist, werden Nutzer dieser Gruppe hinzugefügt sobald die Freigabe erfolgt ist!"
+"<br/>Dies ändert den Standard unter Einstellungen - Allgemein"
+
+#: th23-user-management-admin.php:440
+msgid "Approver e-mail"
+msgstr "Freigabe E-Mail"
+
+#: th23-user-management-admin.php:441
+msgid ""
+"Provide mail address of the approver, to receive notification mails on each "
+"new user registration pending approval - leave empty to receive no "
+"notifications"
+msgstr ""
+"Gib die E-Mail Adresse des Administrators an, welcher für die Freigabe neuer "
+"Benutzer zuständig ist, damit dieser über jede neue Regsitrierung informiert "
+"wird - lasse das Feld leer um keine Benachrichtigungen zu senden"
+
+#: th23-user-management-admin.php:446
+msgid "Terms and conditions"
+msgstr "Nutzungsbedingungen"
+
+#: th23-user-management-admin.php:447
+msgid ""
+"New users are required to accept terms of usage before being able to "
+"complete the registration"
+msgstr ""
+"Neue Benutzer müssen den Nutzungebedingungen zustimmen um die Registrierung "
+"abschließen zu können"
+
+#: th23-user-management-admin.php:448
+msgid "Example:"
+msgstr "Beispiel:"
+
+#.   translators: %s: link to general options page in admin
+#: th23-user-management-admin.php:454
+#, php-format
+msgid "Note: For changing title and link shown see %s"
+msgstr "Hinweis: Zum Ändern des Titels und des Links siehe %s"
+
+#: th23-user-management-admin.php:454
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: th23-user-management-admin.php:457
+msgid "Security"
+msgstr "Sicherheit"
+
+#.   translators: parses in "reCaptcha" as name of the service
+#: th23-user-management-admin.php:462
+#, php-format
+msgid "Enable %s"
+msgstr "%s aktivieren"
+
+#.   translators: 1: "reCaptcha" as name of the service, 2: "Google" as company name, 3: link to Google reCaptcha website
+#: th23-user-management-admin.php:464
+#, php-format
+msgid ""
+"Enable usage of %1$s for better protection against spam and bot "
+"registrations - Note: This is a service provided by %2$s and requires <a "
+"href=\"%3$s\">signing up for a free key</a>"
+msgstr ""
+"Aktiviere %1$s für einen besseren Schutz gegen Spam und Bots - Hinweis: "
+"Dieser Service wird von %2$s angeboten und erfordert <a href=\"%3$s\">eine "
+"kostenlose Anmeldung</a>"
+
+#: th23-user-management-admin.php:472
+msgid "Public key"
+msgstr "Öffentlicher Schlüssel"
+
+#.   translators: parses in "reCaptcha" as name of the service
+#: th23-user-management-admin.php:474
+#, php-format
+msgid "Required, public %s key - see above link to obtain a key"
+msgstr "Notwendig, öffentlicher %s Schlüssel - siehe Link oben für Details"
+
+#: th23-user-management-admin.php:479
+msgid "Private key"
+msgstr "Privater Schlüssel"
+
+#.   translators: parses in "reCaptcha" as name of the service
+#: th23-user-management-admin.php:481
+#, php-format
+msgid "Required, private %s key - see above link to obtain a key"
+msgstr "Notwendig, privater %s Schlüssel - siehe Link oben für Details"
+
+#: th23-user-management-admin.php:486
+msgid "Registration captcha"
+msgstr "Captcha bei Registrierung"
+
+#: th23-user-management-admin.php:487
+msgid "Users need to solve a captcha upon registering for a new account"
+msgstr "Benutzer müssen bei der Registrierung ein Captcha lösen"
+
+#: th23-user-management-admin.php:492
+msgid "Lost password captcha"
+msgstr "Captcha bei Passwort vergessen"
+
+#: th23-user-management-admin.php:493
+msgid "Users need to solve a captcha upon requesting a password reset"
+msgstr "Benutzer müssen ein Captcha lösen um ein Zurücksetzen des Passworts zu initiieren"
+
+#: th23-user-management-admin.php:498
+msgid "Login captcha"
+msgstr "Captcha bei Login"
+
+#: th23-user-management-admin.php:499
+msgid ""
+"Specify at which attempt (unsuccessful, in a row) users need to solve a "
+"captcha upon login - set to \"0\" to disable, set to e.g. \"4\" for allowing "
+"three attempts without captcha"
+msgstr ""
+"Gib an beim wievielten fehlgeschlagenen Versuch der Benutzer ein Captcha "
+"beim Login lösen muss - setze den Wert auf \"0\" um die Funktion zu "
+"deaktivieren, setze den Wert z.B. auf \"4\" um 3 Versuche ohen Captcha zu "
+"erlauben"
+
+#: th23-user-management-admin.php:507
+msgid "Save Changes"
+msgstr "Änderungen Speichern"
+
+#.   translators: parses in plugin version number
+#: th23-user-management-admin.php:525
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#.   translators: parses in plugin author name
+#: th23-user-management-admin.php:527
+#, php-format
+msgid "By %s"
+msgstr "Von %s"
+
+#: th23-user-management-admin.php:532
+msgid "Visit plugin site"
+msgstr "Besuche die Plugin Webseite"
+
+#: th23-user-management-admin.php:544
+msgid "Registered"
+msgstr "Registriert"
+
+#: th23-user-management-admin.php:545
+msgid "Last Login"
+msgstr "Letzter Login"
+
+#: th23-user-management-admin.php:546
+msgid "Last Visit"
+msgstr "Letzter Besuch"
+
+#: th23-user-management-admin.php:563
+msgid "Never"
+msgstr "Nie"
